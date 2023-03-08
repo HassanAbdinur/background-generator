@@ -7,3 +7,12 @@ body {
   top: 15%;
   background: linear-gradient(to right, rgb(255, 74, 74), rgb(5, 50, 164));
 }
+
+h1 {
+  font: 600 3.5em, sans-serif;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  width: 100%;
+}
