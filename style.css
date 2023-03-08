@@ -20,4 +20,5 @@ h1 {
 h3 {
   font: 900 1em, sans-serif;
   color: (0, 0, 0, 0.5);
+  text-align: center;
 }
